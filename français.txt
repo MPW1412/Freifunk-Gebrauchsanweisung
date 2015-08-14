@@ -1,0 +1,32 @@
+version 1.0
+
+Trais le réseau soigneusement!
+
+    Évite d’utiliser tous, ce qui grèvera le réseau! 
+
+Le réseau Freifunk a une largeur de bonde limitée. Donc il peut se passer, que le réseau deviendra très lentement, s'il est utilisé par beaucoup de mondes à même temps. Tu peux ménager le réseau par t'abstenir
+des services lourdes, spécialement le streaming des vidéos en haute qualité et de l'utilisation des protocoles pair à pair, comme par example BitTorrent.
+
+    Ne te mets pas en difficulté!
+
+Comptes-toi d'après la loi. Fait attention à la protection des mineurs et n'ouvre pas du content pour les adultes, pédant qu'il y a des enfants ou des adolescents, qui peuvent te surveiller.
+
+Sois prévenant de tes voisins!
+
+    Ne cause pas de nuisance ou des ordures en public.
+
+Si tu utilises le réseau Freifunk en public, fait attention, que tu ne dérangera pas tes voisin. Adapte le volume a ton environnement et utilise des casques plutôt que l'haut-parleur de ton smartphone. En Allemagne, il est peu courant d'utiliser l'haut-parleur ou d’écouter à la musique forte en public sans casques et sera éprouvé impoli de tes voisins. Quand tu partiras, emportes tes ordures avec toi!
+
+    Fais attention aux temps de repos!
+
+Pour les gens, qui vivent tout autour d'ici, le repos nocturne est très important. En fait, il est prescrit par la loi: En Allemagne, entre 22:00 heures du soir et 6 heures du matin, il est interdit d'être fort.
+
+Fais attention à ta sécurité!
+
+    Ce réseau a beaucoup d'utilisateur avec des intentions différents.
+
+Tu partageras ce réseau avec beaucoup d'autres gens. Quelqu'un avec des intentions mauvaises pourrait essayer d'intercepter tes dates sur le réseau ouvert. Ce n'est pas grave, si tu seulement regardes des informations publiques, mais peut être dangereux, si tu retransmis des mots de passe ou tes émails privés.
+
+    Utilise des connections chiffrées comme HTTPS et SSL.
+
+Ne télécharge des sites webs que sur HTTPS. Tu peux aussi utiliser du chiffrage dans des applications qui se connecter sur l'internet (par exemple un programm d'émail). La connexion sécuritaire y s'appelle souvent SSL ou TLS.

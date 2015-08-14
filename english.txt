@@ -1,0 +1,31 @@
+version 1.0
+
+Treat the network with care!
+
+    Avoid usage that puts a heavy load on the network
+
+The Freifunk-network has a limited capacity. The network can become very slow when accessed by many users at the same time. You can preserve the network by not using especially stressful services like streaming videos in HD or P2P-protocols like Torrent.
+
+    Don't get into trouble
+
+Respect local laws when you use the internet. Especially respect youth protection and don't access adult content when minors are watching.
+
+Consider your neighbours!
+
+    Don't cause public disturbance or littering
+
+When you use the Freifunk-network in public be careful not to disturb your neighbours while doing so. Adjust your volume to your surroundings and use headphones instead of the loudspeakers of your smartphone whenever possible. Using the hands-free setting and playing loud music in public is uncommon and may offend your neighbours as it is considered being impolite. Such is littering. If you meet with several people in public make sure that no trash is left behind.
+
+    Respect municipal noise ordinace
+
+Nighttime peace is very important to the people around you and it is enforced by law. Between 10pm and 6am all activity which could disturb nighttime peace is forbidden.
+
+Be safe!
+
+    This network has many users with different intentions
+
+You're using this network alongside a lot of other people. Someone with bad intentions may try to read your data traffic. This is not too bad if you access public information, but can get dangerous if you transfer passwords or check your personal emails.
+
+    Use encrypted connections like HTTPS and SSL
+
+Always use HTTPS when accessing websites. Also enable encrypted connections in apps which use the internet (like an email client). This option is often called SSL or TLS.

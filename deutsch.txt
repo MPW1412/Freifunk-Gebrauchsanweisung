@@ -1,0 +1,31 @@
+Version 1.0
+
+Gehe sorgsam mit dem Netzwerk um!
+
+    Vermeide Nutzung, welche das Netzwerk stark belastet
+
+Das Freifunk-Netzwerk hat eine begrenzte Bandbreite. Daher kann das Netzwerk sehr langsam werden, wenn es von vielen Nutzern gleichzeitig benutzt wird. Du kannst das Netzwerk schonen, indem Du auf belastende Dienste verzichtest. Dazu gehören vor allem das Streaming von Videos in HD und die Nutzung von P2P-Protokollen wie Torrent.
+
+    Bringe Dich nicht in Schwierigkeiten
+
+Achte die lokalen Gesetze bei der Nutzung des Internets. Beachte insbesondere den Jugendschutz und rufe keine Inhalte für Erwachsene auf, wenn Kinden und Jugendliche dich dabei beobachten können.
+
+Nimm Rücksicht auf Deine Nachbarn!
+
+    Verursache keine öffentliche Belästigung oder Müll
+
+Wenn Du das Freifunk-Netzwerk in der Öffentlichkeit benutzt, achte darauf, Deine Nachbarn nicht damit zu stören. Passe die Lautstärke deiner Umgebung an und verwende nach Möglichkeit Kopfhörer statt der Lautsprecher deines Smartphones. Die Nutzung der Freisprech-Funktion und das laute Abspielen von Musik in der Öffentlichkeit sind unüblich und wird von Deinen Nachbarn wahrscheinlich als unhöflich empfunden. Ebenso verhält es sich mit der Verschmutzung der Umgebung. Wenn Du dich mit mehreren Menschen in der Öffentlichkeit triffst, achte also darauf, dass jeder seine Abfälle wieder mit nimmt.
+
+    Beachte die gesetzlichen Ruhezeiten
+
+Den Menschen in Deiner Umgebung ist Nachtruhe sehr wichtig, sie ist sogar per Gesetz vorgeschrieben. Zwischen 22.00 Uhr und 6.00 sind alle Tätigkeiten verboten, welche die Nachtruhe stören können.
+
+Achte auf Deine Sicherheit!
+
+    Dieses Netzwerk hat viele Benutzer mit verschiedenen Absichten
+
+Du benutzt dieses Netzwerk zusammen mit vielen anderen Menschen. Jemand mit schlechten Absichten könnte versuchen, deinen Datenverkehrt über das offene Netzwerk mitzulesen. Das ist nicht schlimm, wenn du öffentliche Informationen abrufst, aber gefährlich, wenn du Passwörter überträgst oder deine persönlichen E-Mails abrufst.
+
+    Benutze verschlüsselte Verbindungen wie HTTPS und SSL
+
+Rufe Webseiten deswegen immer über HTTPS auf. Auch in Anwendungen, die das Internet benutzen (z.B. ein E-Mail-Programm), kannst du Verschlüsselung benutzen. Die sichere Verbindung nennt sich dort häufig SSL oder TLS.
