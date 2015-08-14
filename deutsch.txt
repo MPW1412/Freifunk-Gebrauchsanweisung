@@ -1,4 +1,4 @@
-Version 1.0
+Version 1.01
 
 Gehe sorgsam mit dem Netzwerk um!
 
@@ -29,3 +29,7 @@ Du benutzt dieses Netzwerk zusammen mit vielen anderen Menschen. Jemand mit schl
     Benutze verschlüsselte Verbindungen wie HTTPS und SSL
 
 Rufe Webseiten deswegen immer über HTTPS auf. Auch in Anwendungen, die das Internet benutzen (z.B. ein E-Mail-Programm), kannst du Verschlüsselung benutzen. Die sichere Verbindung nennt sich dort häufig SSL oder TLS.
+
+    Viel Spaß mit Freifunk!
+
+Bitte beachtet diese Verhaltensregeln, dann könnt ihr Freifunk gerne unbegrenzt nutzen, um euch zu informieren, eure Lieben zu kontaktieren. Freifunk ist ein gemeinnütziges Projekt um allen Menschen in Deutschland ein kostenloses, uneingeschränktes Netzwerk zur Verfügung zu stellen, über das man auch das Internet nutzen kann. Viel Spaß mit Freifunk!

@@ -1,4 +1,4 @@
-version 1.0
+version 1.01
 
 Treat the network with care!
 
@@ -16,7 +16,7 @@ Consider your neighbours!
 
 When you use the Freifunk-network in public be careful not to disturb your neighbours while doing so. Adjust your volume to your surroundings and use headphones instead of the loudspeakers of your smartphone whenever possible. Using the hands-free setting and playing loud music in public is uncommon and may offend your neighbours as it is considered being impolite. Such is littering. If you meet with several people in public make sure that no trash is left behind.
 
-    Respect municipal noise ordinace
+    Respect municipal noise ordinance
 
 Nighttime peace is very important to the people around you and it is enforced by law. Between 10pm and 6am all activity which could disturb nighttime peace is forbidden.
 
@@ -29,3 +29,7 @@ You're using this network alongside a lot of other people. Someone with bad inte
     Use encrypted connections like HTTPS and SSL
 
 Always use HTTPS when accessing websites. Also enable encrypted connections in apps which use the internet (like an email client). This option is often called SSL or TLS.
+
+    Enjoy Freifunk!
+
+Please respect the terms of usage and feel free to use Freifunk without limits to inform yourself or contact your loved ones. Freifunk is a community project to create a free and unlimited network everywhere in Germany through which you can access the internet, too. Enjoy Freifunk!
