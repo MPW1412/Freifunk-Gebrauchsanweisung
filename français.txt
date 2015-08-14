@@ -25,7 +25,7 @@ Fais attention à ta sécurité!
 
     Ce réseau a beaucoup d'utilisateur avec des intentions différents.
 
-u partageras ce réseau avec beaucoup d'autres gens. Quelqu'un avec des intentions mauvaises pourrait essayer d'intercepter tes dates sur le réseau ouvert. Ce n'est pas grave, si tu seulement regardes des informations publiques, mais peut être dangereux, si tu retransmis des mots de passe ou tes émails privés.
+Tu partageras ce réseau avec beaucoup d'autres gens. Quelqu'un avec des intentions mauvaises pourrait essayer d'intercepter tes dates sur le réseau ouvert. Ce n'est pas grave, si tu seulement regardes des informations publiques, mais peut être dangereux, si tu retransmis des mots de passe ou tes émails privés.
 
     Utilise des connections chiffrées comme HTTPS et SSL.
 
