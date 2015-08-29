@@ -1,36 +1,36 @@
 version 1.01
 
-Trais le réseau soigneusement!
+Utilise le réseau avec soin !
 
-    Évite d’utiliser tous, ce qui grèvera le réseau! 
+    Évite les traitements trop lourds, qui ralentiront le réseau !
 
-Le réseau Freifunk a une largeur de bonde limitée. Donc il peut se passer, que le réseau deviendra très lentement, s'il est utilisé par beaucoup de mondes à même temps. Tu peux ménager le réseau par t'abstenir
-des services lourdes, spécialement le streaming des vidéos en haute qualité et de l'utilisation des protocoles pair à pair, comme par exemple BitTorrent.
+Le réseau Freifunk a une largeur de bande limitée. Donc il peut se passer que le réseau soit très lent, s'il est utilisé par beaucoup de monde en même temps. Merci de  ménager le réseau en s'abstenant d'utiliser des services lourds, en particulier le streaming de vidéos en haute qualité et les protocoles peer-to-peer, comme par exemple BitTorrent.
 
-    Ne te mets pas en difficulté!
+    Ne te mets pas en difficulté !
 
-Comptes-toi d'après la loi. Fait attention à la protection des mineurs et n'ouvre pas du content pour les adultes, pédant qu'il y a des enfants ou des adolescents, qui peuvent te surveiller.
+Respecte la loi locale  en ce qui concerne l'utilisation d'Internet.  Fait attention à la protection des mineurs et n'ouvre pas de contenu pour adultes en présence de mineurs ou d'adolescents.
 
-Sois prévenant de tes voisins!
+Considère tes voisins !
 
-    Ne cause pas de nuisance ou des ordures en public.
+    Ne cause pas de nuisance et ne laisse pas d'ordures en public.
 
-Si tu utilises le réseau Freifunk en public, fait attention, que tu ne dérangera pas tes voisin. Adapte le volume a ton environnement et utilise des casques plutôt que l'haut-parleur de ton smartphone. En Allemagne, il est peu courant d'utiliser l'haut-parleur ou d’écouter à la musique forte en public sans casques et sera éprouvé impoli de tes voisins. Quand tu partiras, emportes tes ordures avec toi!
+Si tu utilises le réseau Freifunk en public, fait attention à ne pas déranger tes voisins. Adapte le volume à ton environnement et utilise des casques plutôt que le haut-parleur de ton smartphone. En Allemagne, il est peu courant d'utiliser le haut-parleur ou d'écouter de la musique forte en public sans casques et sera considéré comme impoli par tes voisins. Si tu rencontres plusieurs personnes en public, assure-toi de ne pas laisser d’ordures derrière toi !
 
-    Fais attention aux temps de repos!
+    Fais attention au tapage nocturne !
 
-Pour les gens, qui vivent tout autour d'ici, le repos nocturne est très important. En fait, il est prescrit par la loi: En Allemagne, entre 22:00 heures du soir et 6 heures du matin, il est interdit d'être fort.
+Pour les personnes qui vivent autour de toi, le repos nocturne est très important. Selon la loi allemande, entre 22:00 heures du soir et 6:00 heures du matin, toute activité troublant le repos nocturne est proscrite. 
 
-Fais attention à ta sécurité!
+Fais attention à ta sécurité !
 
-    Ce réseau a beaucoup d'utilisateur avec des intentions différents.
+    Ce réseau a beaucoup d'utilisateurs avec des intentions différentes.
 
-Tu partageras ce réseau avec beaucoup d'autres gens. Quelqu'un avec des intentions mauvaises pourrait essayer d'intercepter tes dates sur le réseau ouvert. Ce n'est pas grave, si tu seulement regardes des informations publiques, mais peut être dangereux, si tu retransmis des mots de passe ou tes émails privés.
+Tu partageras ce réseau avec beaucoup d'autres gens. Quelques-uns avec de mauvaises intentions pourraient essayer d'intercepter tes données sur le réseau ouvert. Ce n'est pas grave si tu accèdes seulement à des informations publiques, mais peut être dangereux si tu retransmets des mots de passe ou tes e-mails privés.
 
     Utilise des connections chiffrées comme HTTPS et SSL.
 
-Ne télécharge des sites webs que sur HTTPS. Tu peux aussi utiliser du chiffrage dans des applications qui se connecter sur l'internet (par exemple un programme d'émail). La connexion sécuritaire y s'appelle souvent SSL ou TLS.
+Utilise toujours HTTPS pour accéder à des sites web. Tu peux aussi utiliser le chiffrage pour des applications qui se connectent sur l'Internet (par exemple un client de messagerie). La connexion sécuritaire s'appelle souvent SSL ou TLS.
 
-    Amuse-toi en Freifunk!
+    Amuse-toi avec Freifunk !
 
-Suivez cettes règles et utilise Freifunk sans limites pour vous informez et contactez vous proches. Freifunk est un projet de bénéfices, qui veut crée un réseau illimité et gratuit dans tout l'Allemagne sur lequel on a accès à l'internet. Amuse-toi en Freifunk!
+Respecte les conditions d'utilisation et utilise Freifunk sans limite pour t'informer et contacter tes proches. Freifunk est un projet collaboratif, afin de mettre à disposition un réseau illimité et gratuit dans toute l'Allemagne accessible à tous. Amuse-toi avec Freifunk !
+
