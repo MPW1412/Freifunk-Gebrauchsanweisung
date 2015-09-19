@@ -18,18 +18,18 @@ Wenn Du das Freifunk-Netzwerk in der Öffentlichkeit benutzt, achte darauf, Dein
 
     Beachte die gesetzlichen Ruhezeiten
 
-Den Menschen in Deiner Umgebung ist Nachtruhe sehr wichtig, sie ist sogar per Gesetz vorgeschrieben. Zwischen 22.00 Uhr und 6.00 sind alle Tätigkeiten verboten, welche die Nachtruhe stören können.
+Den Menschen in Deiner Umgebung ist Nachtruhe sehr wichtig, sie ist sogar per Gesetz vorgeschrieben. Zwischen 22:00 Uhr und 6:00 sind alle Tätigkeiten verboten, welche die Nachtruhe stören können.
 
 Achte auf Deine Sicherheit!
 
     Dieses Netzwerk hat viele Benutzer mit verschiedenen Absichten
 
-Du benutzt dieses Netzwerk zusammen mit vielen anderen Menschen. Jemand mit schlechten Absichten könnte versuchen, deinen Datenverkehrt über das offene Netzwerk mitzulesen. Das ist nicht schlimm, wenn du öffentliche Informationen abrufst, aber gefährlich, wenn du Passwörter überträgst oder deine persönlichen E-Mails abrufst.
+Du benutzt dieses Netzwerk zusammen mit vielen anderen Menschen. Jemand mit schlechten Absichten könnte versuchen, den Inhalt deines Datenverkehrs über das offene Netzwerk mitzulesen. Das ist nicht schlimm, wenn du öffentliche Informationen abrufst, aber gefährlich, wenn du Passwörter überträgst oder deine persönlichen E-Mails abrufst.
 
     Benutze verschlüsselte Verbindungen wie HTTPS und SSL
 
-Rufe Webseiten deswegen immer über HTTPS auf. Auch in Anwendungen, die das Internet benutzen (z.B. ein E-Mail-Programm), kannst du Verschlüsselung benutzen. Die sichere Verbindung nennt sich dort häufig SSL oder TLS.
+Rufe Webseiten deswegen immer über das HTTPS-Protokoll auf. Auch in Anwendungen, die das Internet benutzen (z.B. ein E-Mail-Programm), kannst du Verschlüsselung benutzen. Die sichere Verbindung nennt sich dort häufig SSL oder TLS.
 
     Viel Spaß mit Freifunk!
 
-Bitte beachtet diese Verhaltensregeln, dann könnt ihr Freifunk gerne unbegrenzt nutzen, um euch zu informieren, eure Lieben zu kontaktieren. Freifunk ist ein gemeinnütziges Projekt um allen Menschen in Deutschland ein kostenloses, uneingeschränktes Netzwerk zur Verfügung zu stellen, über das man auch das Internet nutzen kann. Viel Spaß mit Freifunk!
+Bitte beachtet diese Verhaltensregeln, dann könnt ihr Freifunk gerne unbegrenzt nutzen, etwa um euch zu informieren und eure Lieben zu kontaktieren. Freifunk ist ein gemeinnütziges Projekt um allen Menschen in Deutschland ein kostenloses, uneingeschränktes Netzwerk zur Verfügung zu stellen, über das man auch das Internet nutzen kann. Viel Spaß mit Freifunk!
