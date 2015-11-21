@@ -8,13 +8,13 @@ Das Freifunk-Netzwerk hat eine begrenzte Bandbreite. Daher kann das Netzwerk seh
 
     Bringe Dich nicht in Schwierigkeiten
 
-Achte die lokalen Gesetze bei der Nutzung des Internets. Beachte insbesondere den Jugendschutz und rufe keine Inhalte für Erwachsene auf, wenn Kinden und Jugendliche dich dabei beobachten können.
+Achte die lokalen Gesetze bei der Nutzung des Internets. Beachte insbesondere den Jugendschutz und rufe keine Inhalte für Erwachsene auf, wenn Kinder und Jugendliche dich dabei beobachten können.
 
 Nimm Rücksicht auf Deine Nachbarn!
 
     Verursache keine öffentliche Belästigung oder Müll
 
-Wenn Du das Freifunk-Netzwerk in der Öffentlichkeit benutzt, achte darauf, Deine Nachbarn nicht damit zu stören. Passe die Lautstärke deiner Umgebung an und verwende nach Möglichkeit Kopfhörer statt der Lautsprecher deines Smartphones. Die Nutzung der Freisprech-Funktion und das laute Abspielen von Musik in der Öffentlichkeit sind unüblich und wird von Deinen Nachbarn wahrscheinlich als unhöflich empfunden. Ebenso verhält es sich mit der Verschmutzung der Umgebung. Wenn Du dich mit mehreren Menschen in der Öffentlichkeit triffst, achte also darauf, dass jeder seine Abfälle wieder mit nimmt.
+Wenn Du das Freifunk-Netzwerk in der Öffentlichkeit benutzt, achte darauf, Deine Nachbarn nicht damit zu stören. Passe die Lautstärke deiner Umgebung an und verwende nach Möglichkeit Kopfhörer statt der Lautsprecher deines Smartphones. Die Nutzung der Freisprech-Funktion und das laute Abspielen von Musik in der Öffentlichkeit sind unüblich und wird von Deinen Nachbarn wahrscheinlich als unhöflich empfunden. Ebenso verhält es sich mit der Verschmutzung der Umgebung. Wenn Du dich mit mehreren Menschen in der Öffentlichkeit triffst, achte also darauf, dass jeder seine Abfälle wieder mitnimmt.
 
     Beachte die gesetzlichen Ruhezeiten
 
@@ -32,4 +32,4 @@ Rufe Webseiten deswegen immer über das HTTPS-Protokoll auf. Auch in Anwendungen
 
     Viel Spaß mit Freifunk!
 
-Bitte beachtet diese Verhaltensregeln, dann könnt ihr Freifunk gerne unbegrenzt nutzen, etwa um euch zu informieren und eure Lieben zu kontaktieren. Freifunk ist ein gemeinnütziges Projekt um allen Menschen in Deutschland ein kostenloses, uneingeschränktes Netzwerk zur Verfügung zu stellen, über das man auch das Internet nutzen kann. Viel Spaß mit Freifunk!
+Bitte beachte diese Verhaltensregeln, dann kannst du Freifunk gerne unbegrenzt nutzen, etwa um dich zu informieren und deine Lieben zu kontaktieren. Freifunk ist ein gemeinnütziges Projekt um allen Menschen in Deutschland ein kostenloses, uneingeschränktes Netzwerk zur Verfügung zu stellen, über das man auch das Internet nutzen kann. Viel Spaß mit Freifunk!
